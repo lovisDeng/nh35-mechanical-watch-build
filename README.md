@@ -42,14 +42,15 @@ The Seiko NH35 serves as the movement foundation for this build. Its engineering
 ---
 
 
-##  Component Bill of Materials (BOM)
-*   Seiko NH35 Movement
-*   Custom Watch Dial
-*   Precision Hand Set (Hour, Minute, Seconds hands)
-*   Engineered Watch Case & Bezel Assembly
-*   Exhibition Case Back
-*   Winding Crown & Threaded Stem
-*   Integrated Stainless Steel Bracelet / Strap Assembly
+## Build Gallery & Visual Log
+*Progress photographs, CAD dimensional sketches, and macro-component breakdowns will be added directly into the folders linked below.*
+
+| Stage | Documentation Link |
+| :--- | :--- |
+| **1. Component Intake & Unboxing** | [View Intake Photos & Parts Verification](media/intake/) |
+| **2. Movement Testing & Calibration** | [View Calibration Logs & Precision Data](media/testing/) |
+| **3. Dial & Hand Integration** | [View Dial Setting Assembly Progress](media/assembly/) |
+| **4. Final Case Assembly** | [View Completed Wristwatch Gallery](media/final/) |
 
 
 ---
