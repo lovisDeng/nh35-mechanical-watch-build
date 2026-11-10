@@ -1,68 +1,135 @@
-**Overview:**
-This project focuses on building a custom automatic mechanical wristwatch using the NH35 movement as its mechanical foundation.
-The goal is to combine mechanical engineering, precision assembly, component research, and personal design into one functional product.
-Throughout the project, I will document the entire process, from researching the movement and selecting compatible components to assembling the watch and evaluating its performance.
-This repository will serve as a technical record of the design decisions, challenges, solutions, and results throughout the build.
+# Custom NH35 Automatic Mechanical Wristwatch Build
 
-**Project Objectives:**
-Understand the internal mechanisms and operation of an automatic mechanical watch.
-Research the NH35 movement and its technical specifications.
-Identify and select compatible watch components.
-Develop a cohesive design for the finished watch.
-Assemble the watch using appropriate watchmaking tools and techniques.
-Test the finished watch and evaluate its timekeeping performance.
-Document the engineering process and lessons learned.
 
-**Movement:** 
-Seiko NH35 Automatic Mechanical Movement
-The NH35 is an automatic mechanical movement that supports both automatic winding and manual hand-winding. It also features a hacking function, allowing the seconds hand to stop when setting the time. The movement will serve as the foundation of the watch, with the case, dial, hands, and other components selected around its specifications.
+##  Project Metadata
+*   **Project Category:** Mechanical Engineering / Horology / Product Design
+*   **Mechanical Foundation:** Seiko NH35 Automatic Movement
+*   **Project Type:** Personal Engineering Build & Portfolio Project
+*   **Current Status:**  Research & Planning Stage
 
-**Component list:**
--NH35 movement
--Dial
--Hour, minute and seconds hands
--Watch case
--Case back
--Crown and stem
--Bracelet / strap
 
-**Design and Development Process:**
-1. Research and Planning
-Research the NH35 movement, understand its mechanical operation, and identify its dimensions and compatibility requirements.
-2. Component Selection
-Research different cases, dials, hands, crystals, and other components. Ensure that all selected parts are compatible with the movement and each other.
-3. Design
-Establish the overall appearance of the watch, considering proportions, materials, colours, legibility, and functionality.
-4. Assembly
-Prepare the components and tools, then document the assembly process, including dial installation, hand placement, movement fitting, and case assembly.
-5. Testing and Evaluation
-Evaluate the watch’s basic functionality, winding, timekeeping, and overall assembly quality. Record any problems and adjustments.
-6. Final Documentation
-Document the completed watch, final specifications, challenges encountered, and potential improvements for future builds.
+---
 
-**Technical Documentation**
-This repository will contain:
-NH35 movement research and specifications.
-Component dimensions and compatibility information.
-Parts lists and sourcing information.
-Design decisions and references.
-Assembly photographs and progress updates.
-Testing results and observations.
-Troubleshooting notes and improvements.
-Skills and Concepts Explored
-Mechanical systems and movement design.
-Precision assembly and attention to detail.
-Technical research and component compatibility.
-Product design and aesthetics.
-Problem-solving and troubleshooting.
-Testing, evaluation, and technical documentation.
 
-**Project Status**
-Current stage: Research and planning.
-This repository will be updated as components are selected and the build progresses.
-Disclaimer
-This is an educational personal project. Water resistance, durability, and timekeeping performance will not be assumed without appropriate testing.
+##  Overview
+This project focuses on designing, assembling, and testing a custom automatic mechanical wristwatch using the Seiko NH35 movement as its structural and mechanical foundation. The goal is to combine principles of mechanical engineering, precision component sourcing, tight-tolerance assembly, and product aesthetics into a fully functional timepiece. 
 
-Project Category: Mechanical Engineering / Horology / Product Design
- Movement: NH35 Automatic Mechanical Movement
- Project Type: Personal Engineering Build
+
+Throughout the build, this repository will serve as an open-source technical journal documenting engineering decisions, component compatibility constraints, assembly workflows, and testing data.
+
+
+---
+
+
+## Project Objectives
+*   **Mechanical Systems Analysis:** Map out and understand the internal gear trains, power delivery, and structural components of a mechanical watch movement.
+*   **Technical Sourcing:** Research component standards to identify and verify perfectly compatible structural parts (cases, crowns, dials, and hand sets).
+*   **Precision Assembly:** Execute meticulous, dust-free component integration using specialized horological tooling.
+*   **Empirical Testing:** Evaluate timekeeping drift (seconds/day), power reserve capacity, and physical durability under everyday wear conditions.
+*   **Technical Documentation:** Record engineering problems, dimensional mismatches, and mechanical troubleshooting logs for academic and engineering portfolios.
+
+
+---
+
+
+##  Core Technical Specifications: Seiko NH35
+The Seiko NH35 serves as the movement foundation for this build. Its engineering characteristics dictate the dimensions and design restrictions of all surrounding components.
+*   **Winding Mechanism:** Automatic (bi-directional rotor) and manual hand-winding capabilities.
+*   **Complications:** Hacking seconds function (balances and locks train wheels when setting the crown for absolute synchronization).
+*   **Dimension Standards:** Forms the baseline constraint for case interior clearance, dial diameter, hand-pinion spacing, and stem alignment.
+
+
+---
+
+
+##  Component Bill of Materials (BOM)
+*   Seiko NH35 Movement
+*   Custom Watch Dial
+*   Precision Hand Set (Hour, Minute, Seconds hands)
+*   Engineered Watch Case & Bezel Assembly
+*   Exhibition Case Back
+*   Winding Crown & Threaded Stem
+*   Integrated Stainless Steel Bracelet / Strap Assembly
+
+
+---
+
+
+##  Build Gallery & Visual Log
+*Progress photographs, CAD dimensional sketches, and macro-component breakdowns will automatically render below as parts arrive and assembly begins.*
+
+
+| Component Intake & Unboxing | Movement Testing & Teardown |
+| :---: | :---: |
+| ![Placeholder: Dial & Case Sourcing](https://placehold.co) | ![Placeholder: NH35 Calibration](https://placehold.co) |
+
+
+| Dial & Hand Integration | Final Case Assembly |
+| :---: | :---: |
+| ![Placeholder: Hand Setting](https://placehold.co) | ![Placeholder: Final Build Photo](https://placehold.co) |
+
+
+---
+
+
+##  Design and Development Process
+
+
+### 1. Research and Planning
+*   Analyze dimensional constraints of the NH35 movement.
+*   Map out necessary geometric tolerances for stem-height alignment and hand clearance.
+
+
+### 2. Component Selection
+*   Evaluate secondary engineering parts (cases, crystals, dials, hands) across multi-vendor platforms.
+*   Ensure absolute compliance with movement specifications (dial feet locations, hand hole diameters, casing ring spacing).
+
+
+### 3. Aesthetic & Structural Design
+*   Establish target design proportions, finishing textures (brushed vs. polished steel), dial legibility, and operational ergonomics.
+
+
+### 4. Precision Assembly
+*   Establish clean-room conditions to minimize microscopic particulate contamination.
+*   Execute structural mounting of the dial, press-fit the hands onto pinions, trim the winding stem to precision length, and secure the crown.
+
+
+### 5. Evaluation & Calibration
+*   Analyze physical baseline functions, movement winding fluidness, and power reserve efficiency.
+*   Log positional timekeeping variations and outline structural adjustments.
+
+
+### 6. Technical Retrospective
+*   Compile documentation detailing structural friction, assembly interference issues, and potential manufacturing improvements.
+
+
+---
+
+
+##  Repository Content Structure
+This project log is organized into the following technical categories:
+*   `research/` - NH35 movement schematics, technical data sheets, and dimensional benchmarks.
+*   `specifications/` - Parts dimensional matching metrics and procurement logs.
+*   `media/` - High-resolution engineering diagrams, assembly photography, and visual logs.
+*   `data/` - Timekeeping precision tracking metrics and positional variance data sheets.
+
+
+---
+
+
+## Skills and Concepts Explored
+*   Micro-mechanical systems architecture & gear interactions.
+*   High-precision manual assembly and spatial clearance evaluation.
+*   Technical sourcing parameters and structural compatibility validation.
+*   Industrial product design, surface aesthetics, and functional ergonomics.
+*   Empirical tracking, calibration logging, and data-driven troubleshooting.
+
+
+---
+
+
+##  Disclaimer
+This project is executed purely as an independent engineering exploration. Water resistance metrics, structural stress ratings, and exact chronometric stability parameters cannot be guaranteed without calibrated lab equipment and verified testing procedures.
+
+
+
